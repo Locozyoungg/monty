@@ -36,4 +36,3 @@ void print_stack_recursive(stack_t **stack, unsigned int line_number)
 		print_stack_recursive(stack, line_number);
 	}
 }
-
